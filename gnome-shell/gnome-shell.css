@@ -2662,26 +2662,26 @@ StScrollBar StButton#vhandle:active {
 }
 
 .login-dialog .modal-dialog-button:default {
-    background-gradient-start: #6793c4;
-    background-gradient-end: #335d8f;
+    background-gradient-start: #65838f;
+    background-gradient-end: #65838f;
     background-gradient-direction: vertical;
     border-color: #404040;
 }
 
 .login-dialog .modal-dialog-button:default:focus {
-    border: 1px solid #666666;
+    border: 1px solid #404040;
 }
 
 .login-dialog .modal-dialog-button:default:hover {
-    background-gradient-start: #74a0d0;
-    background-gradient-end: #436d9f;
-    border: 1px solid #666666;
+    background-gradient-start: #7193a1;
+    background-gradient-end: #7193a1;
+    border: 1px solid #404040;
 }
 
 .login-dialog .modal-dialog-button:default:active,
 .login-dialog .modal-dialog-button:default:pressed {
-    background-gradient-start: #436d9f;
-    background-gradient-end: #74a0d0;
+    background-gradient-start: #58727d;
+    background-gradient-end: #58727d;
     border-color: #404040;
 }
 
